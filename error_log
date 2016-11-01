@@ -1,0 +1,5 @@
+[26-Sep-2015 07:17:06 UTC] PHP Parse error:  syntax error, unexpected '$email_from' (T_VARIABLE), expecting ',' or ';' in /home/besttechnolabs/public_html/sendemail.php on line 11
+[26-Sep-2015 07:17:59 UTC] PHP Parse error:  syntax error, unexpected '$email_from' (T_VARIABLE), expecting ',' or ';' in /home/besttechnolabs/public_html/sendemail.php on line 11
+[26-Sep-2015 07:19:17 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/besttechnolabs/public_html/sendemail.php on line 12
+[26-Sep-2015 07:20:34 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/besttechnolabs/public_html/sendemail.php on line 12
+[26-Sep-2015 07:20:53 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/besttechnolabs/public_html/sendemail.php on line 12
